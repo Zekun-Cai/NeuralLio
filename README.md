@@ -1,4 +1,4 @@
-This is the code for NeurIPS 2025 review.
+This is the code for the NeurIPS 2025 paper Continuous Domain Generalization.
 
 
 # 2 Moons Dataset

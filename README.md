@@ -13,8 +13,8 @@ _Figure 2: MNIST Dataset_
 
 # Parameter Manifold Result
 
-![Manifold result](figure/param_mani.gif)
-_Figure 3: Parameter Manifold
+![Manifold result](figure/param_mani.png)
+_Figure 3: Parameter Manifold_
 
 ## Jupyter Tutorial
 

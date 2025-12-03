@@ -18,6 +18,6 @@ _Figure 3: Parameter Manifold_
 
 ## Jupyter Tutorial
 
-We provide a Jupyter notebook tutorial ```NeuralLTO-Demo.ipynb``` in this repository. It offers a step-by-step guide to understanding our framework, demonstrating its core functionality on 2-Moons dataset.
+We provide a Jupyter notebook tutorial ```NeuralLio-Demo.ipynb``` in this repository. It offers a step-by-step guide to understanding our framework, demonstrating its core functionality on 2-Moons dataset.
 
-**We also show how to reproduce and visualize the model parameter manifold via NeuralLTO.**
+**We also show how to reproduce and visualize the model parameter manifold via NeuralLio.**
